@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **CMS Backend**
 
-- 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
-
 - 👨‍💻 All of my projects are available at [https://github.com/mukeshmahato18/](https://github.com/mukeshmahato18/)
 
 - 📝 I regularly write articles on [https://mukeshmahato.hashnode.dev/](https://mukeshmahato.hashnode.dev/)
