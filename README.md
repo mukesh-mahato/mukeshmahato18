@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on **CMS Backend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mukeshmahato18/](https://github.com/mukeshmahato18/)
-
+- 👨‍💻 All of my projects are available at [https://github.com/mukeshmahato18/](https://github.com/mukeshmahato18?tab=repositories)
 - 📝 I regularly write articles on [https://mukeshmahato.hashnode.dev/](https://mukeshmahato.hashnode.dev/)
 
 - 📫 How to reach me **mukeshmahato2618@gmail.com**
